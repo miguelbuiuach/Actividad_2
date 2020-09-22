@@ -1,0 +1,16 @@
+p {
+    color: darkblue;
+}
+
+html {
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    background-color: aliceblue;
+    background-position: center;
+    margin-top: 10px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
